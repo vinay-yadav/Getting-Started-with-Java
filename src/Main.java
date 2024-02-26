@@ -1,8 +1,8 @@
-import com.scaler.intro.SquareRoot;
+import com.scaler.intro.PrimeCount;
 
 public class Main {
     public static void main(String[] args) {
-        int output = SquareRoot.solve(4);
+        int output = PrimeCount.solve(20);
         System.out.println(output);
     }
 }
